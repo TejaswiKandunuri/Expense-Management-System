@@ -1,3 +1,4 @@
+//Routers for Transaction control
 import express from 'express';
 import { addTransactionController, deleteTransactionController, getAllTransactionController, updateTransactionController } from '../controllers/transactionController.js';
 
