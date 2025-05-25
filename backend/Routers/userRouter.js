@@ -1,3 +1,4 @@
+//Router for User - register, login and set avathar.
 import express from 'express';
 import { loginControllers, registerControllers, setAvatarController } from '../controllers/userController.js';
 
